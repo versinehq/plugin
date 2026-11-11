@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "versine": {
+      "type": "http",
+      "url": "https://mcp.versine.com"
+    }
+  }
+}

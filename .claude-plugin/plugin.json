@@ -1,0 +1,20 @@
+{
+  "name": "versine",
+  "displayName": "Versine",
+  "version": "1.0.0",
+  "description": "Pay friends back, split costs and ask people for money from a conversation. Claude drafts each payment and you approve it in the Versine app.",
+  "author": {
+    "name": "Versine",
+    "email": "support@versine.com",
+    "url": "https://versine.com"
+  },
+  "homepage": "https://versine.com",
+  "license": "MIT",
+  "keywords": [
+    "payments",
+    "split",
+    "friends",
+    "money"
+  ],
+  "privacyPolicyUrl": "https://versine.com/legal/privacy"
+}
