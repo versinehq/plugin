@@ -16,5 +16,7 @@
     "friends",
     "money"
   ],
-  "privacyPolicyUrl": "https://versine.com/legal/privacy"
+  "privacyPolicyUrl": "https://versine.com/legal/privacy",
+  "repository": "https://github.com/versinehq/plugin",
+  "documentationUrl": "https://versine.com/docs/mcp"
 }
